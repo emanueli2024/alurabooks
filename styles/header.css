@@ -5,7 +5,7 @@
     display: inline-block;
 }
 
-.cabeçalho{
+.cabecalho{
 background-color: var(--branco);
 display: flex;
 justify-content: space-between;
